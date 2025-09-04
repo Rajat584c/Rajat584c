@@ -20,8 +20,10 @@ I'm passionate about **data-driven problem solving**, **machine learning**, and 
 ## 📊 Projects
 
 Here are a few projects I’ve worked on or am currently building:
-Diamond Dashboard: [https://github.com/Rajat584c/Diamond-Dashboard]
 
+- Diamond Dashboard: [https://github.com/Rajat584c/Diamond-Dashboard]
+- Tea Consumption: [https://github.com/Rajat584c/Rajat/tree/main/Tea%20Consumption]
+- Simple Excel Sheets Compiler: [https://github.com/Rajat584c/Rajat/tree/main/Excel%20Compiler]
 
 ---
 
