@@ -20,7 +20,7 @@ I'm passionate about **data-driven problem solving**, **machine learning**, and 
 ## 📊 Projects
 
 Here are a few projects I’ve worked on or am currently building:
-
+Diamond Dashboard: [https://github.com/Rajat584c/Diamond-Dashboard]
 
 
 ---
