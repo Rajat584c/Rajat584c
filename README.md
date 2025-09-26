@@ -12,7 +12,7 @@ I'm passionate about **data-driven problem solving**, **machine learning**, and 
 - **Languages**: Python, SQL
 - **Analytics & ML**: Pandas, NumPy, Scikit-learn, Power BI
 - **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, JIRA, Excel, Selenium, Jmeter (for QA work)
+- **Tools**: Git, JIRA, Excel, MS Office, Streamlit
 - **Soft Skills**: Analytical thinking, collaboration, problem solving, team management
 
 ---
